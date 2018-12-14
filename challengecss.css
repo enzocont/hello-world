@@ -1,0 +1,18 @@
+* {
+	box-sizing:border-box;
+	color:orange;
+}
+body {
+	padding:0px;
+	margin:0px;
+	font-familiy:'Oswald', sans-serif;
+}
+body{
+	background-color:#334185;
+}
+
+@media all and (wim-width:550px){
+	
+}
+@media all and (wim-width:750px){
+}
